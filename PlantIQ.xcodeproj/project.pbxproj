@@ -18,13 +18,11 @@
 		52282C2F2B9359F400987EE1 /* SQLLiteDataBase.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52282C2E2B9359F400987EE1 /* SQLLiteDataBase.swift */; };
 		52282C312B93662900987EE1 /* SQLiteCommands.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52282C302B93662900987EE1 /* SQLiteCommands.swift */; };
 		52282C352B9371D300987EE1 /* NewUserViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52282C342B9371D300987EE1 /* NewUserViewModel.swift */; };
-		52282C392B93B17200987EE1 /* CircularPogress.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52282C382B93B17200987EE1 /* CircularPogress.swift */; };
-		5247C5A92B9CF3F5007D84A8 /* TestCamera.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5247C5A82B9CF3F5007D84A8 /* TestCamera.swift */; };
 		5247C5AC2BA392F5007D84A8 /* LoginPresenter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5247C5AB2BA392F5007D84A8 /* LoginPresenter.swift */; };
 		5268698F2B85439A00D19ADF /* FirstWelcomeVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5268698E2B85439A00D19ADF /* FirstWelcomeVC.swift */; };
 		526869912B8543D600D19ADF /* SecondWelcomeVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 526869902B8543D600D19ADF /* SecondWelcomeVC.swift */; };
 		52BC6E8B2B94DC4700E9ED97 /* DashBoardVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52BC6E8A2B94DC4700E9ED97 /* DashBoardVC.swift */; };
-		52BC6E8D2B94ED2600E9ED97 /* test SwiftUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52BC6E8C2B94ED2600E9ED97 /* test SwiftUI.swift */; };
+		52BC6E8D2B94ED2600E9ED97 /* CircularPogress.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52BC6E8C2B94ED2600E9ED97 /* CircularPogress.swift */; };
 		52EECB732B85029000004D7C /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52EECB722B85029000004D7C /* AppDelegate.swift */; };
 		52EECB7A2B85029000004D7C /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 52EECB782B85029000004D7C /* Main.storyboard */; };
 		52EECB7C2B85029200004D7C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 52EECB7B2B85029200004D7C /* Assets.xcassets */; };
@@ -84,13 +82,11 @@
 		52282C2E2B9359F400987EE1 /* SQLLiteDataBase.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SQLLiteDataBase.swift; sourceTree = "<group>"; };
 		52282C302B93662900987EE1 /* SQLiteCommands.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SQLiteCommands.swift; sourceTree = "<group>"; };
 		52282C342B9371D300987EE1 /* NewUserViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewUserViewModel.swift; sourceTree = "<group>"; };
-		52282C382B93B17200987EE1 /* CircularPogress.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircularPogress.swift; sourceTree = "<group>"; };
-		5247C5A82B9CF3F5007D84A8 /* TestCamera.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestCamera.swift; sourceTree = "<group>"; };
 		5247C5AB2BA392F5007D84A8 /* LoginPresenter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginPresenter.swift; sourceTree = "<group>"; };
 		5268698E2B85439A00D19ADF /* FirstWelcomeVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FirstWelcomeVC.swift; sourceTree = "<group>"; };
 		526869902B8543D600D19ADF /* SecondWelcomeVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondWelcomeVC.swift; sourceTree = "<group>"; };
 		52BC6E8A2B94DC4700E9ED97 /* DashBoardVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DashBoardVC.swift; sourceTree = "<group>"; };
-		52BC6E8C2B94ED2600E9ED97 /* test SwiftUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "test SwiftUI.swift"; sourceTree = "<group>"; };
+		52BC6E8C2B94ED2600E9ED97 /* CircularPogress.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircularPogress.swift; sourceTree = "<group>"; };
 		52EECB6F2B85029000004D7C /* PlantIQ.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = PlantIQ.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		52EECB722B85029000004D7C /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		52EECB792B85029000004D7C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
@@ -188,10 +184,8 @@
 		52282C3A2B94C20200987EE1 /* SwiftUI */ = {
 			isa = PBXGroup;
 			children = (
-				52282C382B93B17200987EE1 /* CircularPogress.swift */,
-				52BC6E8C2B94ED2600E9ED97 /* test SwiftUI.swift */,
+				52BC6E8C2B94ED2600E9ED97 /* CircularPogress.swift */,
 				52F3FFD92B9639850027901E /* CameraView.swift */,
-				5247C5A82B9CF3F5007D84A8 /* TestCamera.swift */,
 			);
 			path = SwiftUI;
 			sourceTree = "<group>";
@@ -638,10 +632,9 @@
 				52F9879D2B8D0059005AAAB1 /* ExplorePlantVC.swift in Sources */,
 				5268698F2B85439A00D19ADF /* FirstWelcomeVC.swift in Sources */,
 				52282C352B9371D300987EE1 /* NewUserViewModel.swift in Sources */,
-				52BC6E8D2B94ED2600E9ED97 /* test SwiftUI.swift in Sources */,
+				52BC6E8D2B94ED2600E9ED97 /* CircularPogress.swift in Sources */,
 				52282C282B9114A900987EE1 /* User.swift in Sources */,
 				52282C312B93662900987EE1 /* SQLiteCommands.swift in Sources */,
-				5247C5A92B9CF3F5007D84A8 /* TestCamera.swift in Sources */,
 				52282C222B91143800987EE1 /* Constant.swift in Sources */,
 				52282C242B91146900987EE1 /* UiViewController+Alert.swift in Sources */,
 				5247C5AC2BA392F5007D84A8 /* LoginPresenter.swift in Sources */,
@@ -656,7 +649,6 @@
 				52F3FFDA2B9639850027901E /* CameraView.swift in Sources */,
 				52282C2A2B9114D700987EE1 /* UserDefaultsManager.swift in Sources */,
 				52F987972B8CEF2A005AAAB1 /* Plant.swift in Sources */,
-				52282C392B93B17200987EE1 /* CircularPogress.swift in Sources */,
 				52EF54FD2BA39DAB002D84BB /* SigunUpPresenter.swift in Sources */,
 				52EECB732B85029000004D7C /* AppDelegate.swift in Sources */,
 				52EF54FB2BA39D4F002D84BB /* VCProtocoL.swift in Sources */,
