@@ -1,0 +1,6 @@
+${PODS_ROOT}/Target Support Files/Pods-PlantIQ-PlantIQUITests/Pods-PlantIQ-PlantIQUITests-frameworks.sh
+${BUILT_PRODUCTS_DIR}/IQKeyboardManagerSwift/IQKeyboardManagerSwift.framework
+${BUILT_PRODUCTS_DIR}/RxCocoa/RxCocoa.framework
+${BUILT_PRODUCTS_DIR}/RxRelay/RxRelay.framework
+${BUILT_PRODUCTS_DIR}/RxSwift/RxSwift.framework
+${BUILT_PRODUCTS_DIR}/SQLite.swift/SQLite.framework

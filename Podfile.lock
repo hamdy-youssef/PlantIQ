@@ -1,0 +1,36 @@
+PODS:
+  - IQKeyboardManagerSwift (6.5.12)
+  - RxCocoa (6.5.0):
+    - RxRelay (= 6.5.0)
+    - RxSwift (= 6.5.0)
+  - RxRelay (6.5.0):
+    - RxSwift (= 6.5.0)
+  - RxSwift (6.5.0)
+  - SQLite.swift (0.14.1):
+    - SQLite.swift/standard (= 0.14.1)
+  - SQLite.swift/standard (0.14.1)
+
+DEPENDENCIES:
+  - IQKeyboardManagerSwift
+  - RxCocoa
+  - RxSwift
+  - SQLite.swift
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - IQKeyboardManagerSwift
+    - RxCocoa
+    - RxRelay
+    - RxSwift
+    - SQLite.swift
+
+SPEC CHECKSUMS:
+  IQKeyboardManagerSwift: 371b08cb39664fb56030f5345c815a4ffc74bbc0
+  RxCocoa: 94f817b71c07517321eb4f9ad299112ca8af743b
+  RxRelay: 1de1523e604c72b6c68feadedd1af3b1b4d0ecbd
+  RxSwift: 5710a9e6b17f3c3d6e40d6e559b9fa1e813b2ef8
+  SQLite.swift: 2992550ebf3c5b268bf4352603e3df87d2a4ed72
+
+PODFILE CHECKSUM: 117fb6ecf07c80f2251bb93f5fed7ed76b71b011
+
+COCOAPODS: 1.14.2

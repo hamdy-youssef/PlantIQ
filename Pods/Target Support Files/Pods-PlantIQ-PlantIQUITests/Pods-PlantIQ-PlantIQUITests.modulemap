@@ -1,0 +1,6 @@
+framework module Pods_PlantIQ_PlantIQUITests {
+  umbrella header "Pods-PlantIQ-PlantIQUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
