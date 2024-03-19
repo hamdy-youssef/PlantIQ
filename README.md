@@ -49,6 +49,6 @@ We welcome contributions from the community to improve and expand PlantIQ. If yo
 
 We would like to express our gratitude to the open-source community for their valuable contributions and support in developing PlantIQ.
 
----
 
-This README provides an overview of PlantIQ and instructions for getting started with the application. For more detailed information, refer to the documentation included with the project. If you encounter any issues or have any questions, please don't hesitate to reach out to us. Happy gardening with PlantIQ! 🌱📱
+## Contact
+For any inquiries or feedback, please contact Hamdy Youssef at hamdyyoussef962@gmail.com.
